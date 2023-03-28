@@ -73,9 +73,3 @@ Hello there! me someone who enjoys development and has experience with Android, 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pavan6476252&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pavan6476252&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-
-
-
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=pavan6476252&theme=radical&no-frame=true&no-bg=false&margin-w=4)
